@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Casablanca",
+    "country": "Maroc",
+    "id": 1
+  },
+  {
+    "name": "Rabat",
+    "country": "Maroc",
+    "id": 2
+  },
+  {
+    "name": "Marrakech",
+    "country": "Maroc",
+    "id": 3
+  },
+  {
+    "name": "Fes",
+    "country": "Maroc",
+    "id": 4
+  },
+  {
+    "name": "Tangier",
+    "country": "Maroc",
+    "id": 5
+  },
+  {
+    "name": "Agadir",
+    "country": "Maroc",
+    "id": 6
+  },
+  {
+    "name": "Meknes",
+    "country": "Maroc",
+    "id": 7
+  },
+  {
+    "name": "Oujda",
+    "country": "Maroc",
+    "id": 8
+  },
+  {
+    "name": "Kenitra",
+    "country": "Maroc",
+    "id": 9
+  },
+  {
+    "name": "Tetouan",
+    "country": "Maroc",
+    "id": 10
+  },
+  {
+    "name": "Temara",
+    "country": "Maroc",
+    "id": 11
+  },
+  {
+    "name": "Safi",
+    "country": "Maroc",
+    "id": 12
+  }
+]

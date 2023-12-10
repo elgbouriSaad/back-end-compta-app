@@ -1,0 +1,1 @@
+ALTER TABLE accountant ADD deleted BOOLEAN DEFAULT FALSE;

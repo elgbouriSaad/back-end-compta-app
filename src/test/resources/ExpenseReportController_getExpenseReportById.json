@@ -1,0 +1,9 @@
+{
+  "label": "expenseLabelTest",
+  "status": "SAVED",
+  "priceExclTax": 302.70,
+  "qualification": "expenseQualificationTest",
+  "tax": 10,
+  "customerId": 1004,
+  "id": 1009
+}

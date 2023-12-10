@@ -1,0 +1,2 @@
+ALTER TABLE quotation
+MODIFY COLUMN status TINYINT;

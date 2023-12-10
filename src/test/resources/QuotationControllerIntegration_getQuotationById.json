@@ -1,0 +1,15 @@
+{
+  "status": "SAVED",
+  "validationDelay": 50,
+  "quotationProducts": [
+    {
+      "label": "quotationProductLabelTest",
+      "reference": "quotationProductReferenceTest",
+      "priceExclTax": 301.60,
+      "unity": "quotationProductUnityTest",
+      "qualification": "quotationProductQualificationTest",
+      "tax": 15,
+      "quantity": 400
+    }
+  ]
+}

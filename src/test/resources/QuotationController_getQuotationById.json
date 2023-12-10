@@ -1,0 +1,20 @@
+{
+  "status": "SAVED",
+  "validationDelay": 50,
+  "customerId": 1004,
+  "clientId": 1005,
+  "id": 1007,
+  "quotationProducts": [
+    {
+      "id": 1008,
+      "productId": 1006,
+      "label": "quotationProductLabelTest",
+      "reference": "quotationProductReferenceTest",
+      "priceExclTax": 301.60,
+      "unity": "quotationProductUnityTest",
+      "qualification": "quotationProductQualificationTest",
+      "tax": 15,
+      "quantity": 400
+    }
+  ]
+}

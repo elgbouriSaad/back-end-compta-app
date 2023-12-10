@@ -1,0 +1,16 @@
+[
+  {
+    "label": "expenseLabelTest",
+    "status": "SAVED",
+    "priceExclTax": 302.70,
+    "qualification": "expenseQualificationTest",
+    "tax": 10
+  },
+  {
+    "label": "expenseLabelTest",
+    "status": "SAVED",
+    "priceExclTax": 302.70,
+    "qualification": "expenseQualificationTest",
+    "tax": 10
+  }
+]

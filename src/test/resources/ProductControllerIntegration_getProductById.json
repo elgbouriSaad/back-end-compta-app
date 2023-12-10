@@ -1,0 +1,8 @@
+{
+  "label": "productLabelTest",
+  "reference": "productReferenceTest",
+  "priceExclTax": 300.50,
+  "unity": "productUnityTest",
+  "qualification": "productQualificationTest",
+  "tax": 5
+}

@@ -1,0 +1,15 @@
+{
+    "status": "SAVED",
+    "paymentDelay": 60,
+    "invoiceProducts": [
+      {
+        "label": "invoiceProductLabelTest",
+        "reference": "invoiceProductReferenceTest",
+        "priceExclTax": 345.60,
+        "unity": "invoiceProductUnityTest",
+        "qualification": "invoiceProductQualificationTest",
+        "tax": 20,
+        "quantity": 500
+      }
+    ]
+}

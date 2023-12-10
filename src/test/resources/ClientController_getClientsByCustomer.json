@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1005,
+    "customerId": 1004,
+    "companyName": "clientSocialPurposeTest",
+    "rc": 102,
+    "email": "client@email.com",
+    "address": {
+      "primaryAddress": "clientPrimaryAddressTest",
+      "secondaryAddress": "clientSecondaryAddressTest",
+      "postalCode": 202,
+      "city": "Casablanca",
+      "country": "Maroc"
+    },
+    "mobilePhone": "clientMobileT",
+    "phone": "clientPhoneT",
+    "fax": "clientFaxTest"
+  }
+]

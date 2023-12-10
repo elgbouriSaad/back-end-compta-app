@@ -1,0 +1,16 @@
+{
+  "id": 1003,
+  "companyName": "accountantSocialPurposeTest",
+  "rc": 100,
+  "email": "accountant@email.com",
+  "address": {
+    "primaryAddress": "accountantPrimaryAddressTest",
+    "secondaryAddress": "accountantSecondaryAddressTest",
+    "postalCode": 200,
+    "city": "Casablanca",
+    "country": "Maroc"
+  },
+  "mobilePhone": "accountantMobileT",
+  "phone": "accountantPhoneT",
+  "fax": "accountantFaxTest"
+}
